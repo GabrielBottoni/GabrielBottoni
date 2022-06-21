@@ -2,7 +2,6 @@
 
 - 🔭 Iniciando na programação frontend
 - 🌱 Aprendendo as linguagens HTML e CSS
-- 👯 Em busca de uma primeira oportunidade no mundo DEV
 
 <div align="center">
   <a href="https://github.com/GabrielBottoni">
