@@ -5,8 +5,8 @@ Olá eu sou Gabriel Bottoni
 
 <div align="center">
   <a href="https://github.com/GabrielBottoni">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=GabrielBottoni&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-   <img height="50%" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBottoni&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=GabrielBottoni&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBottoni&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 
 
