@@ -1,7 +1,7 @@
 Olá eu sou Gabriel Bottoni
 
 <strong>Iniciando na programação frontend</strong>
-<p><strong>Aprendendo as linguagens HTML | CSS | JAVASCRIPT</strong></p>
+<p><strong>Aprendendo as linguagens HTML | CSS | PHP </strong></p>
 
 <div align="center">
   <a href="https://github.com/GabrielBottoni">
