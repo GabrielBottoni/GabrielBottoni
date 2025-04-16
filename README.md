@@ -31,5 +31,5 @@ Aqui estão alguns dos meus projetos:
 
 ## Como me contatar 📬
 
-- **LinkedIn**: [Seu Perfil LinkedIn]([https://www.linkedin.com/in/gabrielbottoni/])
+- **LinkedIn**: [Gabriel Bottoni](https://www.linkedin.com/in/gabrielbottoni/)
 
