@@ -26,8 +26,8 @@ Sou um desenvolvedor Fullstack apaixonado por criar soluções eficientes e esca
 Aqui estão alguns dos meus projetos:
 
 - **[Mestre do Sabor](https://projeto-mit-1.vercel.app/)**: Aplicação de e-commerce com autenticação e painel administrativo.
-- **[Lotus Health]([#](https://projeto-interfaces-zeta.vercel.app/))**: Plataforma de saúde com formulário dinâmico e validação de dados.
-- **[Portifólio]([#](https://portifolio-cyan-ten-49.vercel.app/))**: Em breve, mais projetos estarão disponíveis!
+- **[Lotus Health](https://projeto-interfaces-zeta.vercel.app/)**: Plataforma de saúde com formulário dinâmico e validação de dados.
+- **[Portifólio](https://portifolio-cyan-ten-49.vercel.app/)**: Em breve, mais projetos estarão disponíveis!
 
 ## Como me contatar 📬
 
