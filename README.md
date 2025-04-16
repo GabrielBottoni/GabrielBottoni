@@ -1,24 +1,35 @@
-Olá eu sou Gabriel Bottoni
+# Olá, sou Gabriel Bottoni! 👋
 
-<strong>Iniciando na programação frontend</strong>
-<p><strong>Aprendendo as linguagens HTML | CSS | PHP </strong></p>
+Sou um desenvolvedor Fullstack apaixonado por criar soluções eficientes e escaláveis. Tenho experiência em uma variedade de tecnologias, incluindo front-end, back-end e banco de dados. Sempre buscando aprender e evoluir para entregar os melhores resultados.
 
-<div align="center">
-  <a href="https://github.com/GabrielBottoni">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=GabrielBottoni&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBottoni&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
+## Tecnologias que uso ⚙️
 
+### Front-End
+- **HTML5** - Estrutura e semântica para páginas web.
+- **CSS3** - Estilos e layouts responsivos.
+- **JavaScript** - Lógica e interatividade no front-end.
+- **React.js** - Bibliotecas e frameworks para construir interfaces ricas.
+- **Vite** - Ferramenta de build e desenvolvimento rápido.
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Gabe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Gabe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Gabe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Gabe-php" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-</div>
+### Back-End
+- **PHP** - Linguagem de script para desenvolvimento web.
+- **Laravel** - Framework PHP para aplicações robustas e seguras.
+- **Node.js** - Plataforma de JavaScript para back-end.
+- **Express.js** - Framework minimalista para Node.js.
 
-##
+### Bancos de Dados
+- **SQL** - Bancos relacionais, incluindo MySQL e PostgreSQL.
+- **MongoDB** - Banco de dados NoSQL, ideal para dados não estruturados.
 
-<div>
-<a href="https://www.linkedin.com/in/gabrielbottoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## Projetos 🚀
+
+Aqui estão alguns dos meus projetos:
+
+- **[Mestre do Sabor](https://projeto-mit-1.vercel.app/)**: Aplicação de e-commerce com autenticação e painel administrativo.
+- **[Lotus Health]([#](https://projeto-interfaces-zeta.vercel.app/))**: Plataforma de saúde com formulário dinâmico e validação de dados.
+- **[Portifólio]([#](https://portifolio-cyan-ten-49.vercel.app/))**: Em breve, mais projetos estarão disponíveis!
+
+## Como me contatar 📬
+
+- **LinkedIn**: [Seu Perfil LinkedIn]([https://www.linkedin.com/in/gabrielbottoni/])
+
